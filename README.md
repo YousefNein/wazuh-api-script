@@ -73,4 +73,5 @@ Before running the script, make sure to update the following variables in the sc
 - `user`: Username for Wazuh API
 - `password`: Password for Wazuh API
 
-##
+## References
+- https://documentation.wazuh.com/current/user-manual/api/reference.html
