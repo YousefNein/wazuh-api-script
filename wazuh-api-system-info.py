@@ -12,7 +12,7 @@ protocol = 'https'
 host = '10.10.50.3'
 port = 55000
 user = 'wazuh-wui'
-password = 'JXibl6UhHT4wZf7fdXF+64PCe36zyOqw'
+password = '' # Update with your Wazuh manager API password 
 login_endpoint = 'security/user/authenticate'
 
 def authenticate():
